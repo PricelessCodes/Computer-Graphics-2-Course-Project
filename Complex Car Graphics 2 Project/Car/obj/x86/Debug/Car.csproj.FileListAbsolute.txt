@@ -1,0 +1,7 @@
+F:\Educational Materials\Computer Science\CS Semester 7\3D\Project\Car\Car\bin\Debug\Car.exe
+F:\Educational Materials\Computer Science\CS Semester 7\3D\Project\Car\Car\bin\Debug\Car.pdb
+F:\Educational Materials\Computer Science\CS Semester 7\3D\Project\Car\Car\obj\x86\Debug\Car.Properties.Resources.resources
+F:\Educational Materials\Computer Science\CS Semester 7\3D\Project\Car\Car\obj\x86\Debug\Car.csproj.GenerateResource.Cache
+F:\Educational Materials\Computer Science\CS Semester 7\3D\Project\Car\Car\obj\x86\Debug\Car.exe
+F:\Educational Materials\Computer Science\CS Semester 7\3D\Project\Car\Car\obj\x86\Debug\Car.pdb
+F:\Educational Materials\Computer Science\CS Semester 7\3D\Project\Car\Car\obj\x86\Debug\Car.csprojResolveAssemblyReference.cache
